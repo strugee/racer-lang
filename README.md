@@ -1,4 +1,4 @@
-# race-lang
+# racer-lang
 
 Ad-driven development platform with all the features you love (to hate)
 
